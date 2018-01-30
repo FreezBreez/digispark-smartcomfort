@@ -49,5 +49,4 @@ void loop()
 
   // For debugging
   DigiKeyboard.delay(timeBetweenChecks); // hang around for specified milliseconds
-  delay(timeBetweenChecks); // Wait for specified milliseconds
 }
