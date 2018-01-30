@@ -18,7 +18,7 @@ const int temperaturePin = 1; // Confusingly, analog 1 is P2
 
 const int maximumTemperature = 33; // Temperature vents on
 const int minimumTemperature = 24; // Temperature vents off
-const int timeBetweenChecks = 2000;
+const int timeBetweenChecks = 60000;
 
 void setup()
 {
